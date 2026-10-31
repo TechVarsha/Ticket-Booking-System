@@ -35,6 +35,5 @@ public class Movie {
 	
 	@Enumerated(EnumType.STRING)
 	private MovieStatus status;
-	
 
 }
